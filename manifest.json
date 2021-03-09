@@ -10,6 +10,12 @@
         }
     ],
     "action": {
-        "default_popup": "popup.html"
+        "default_popup": "popup.html",
+        "default_icon": "/Icons/Logo-16.png"
+    },
+    "icons": {
+        "16": "/Icons/Logo-16.png",
+        "48": "/Icons/Logo-48.png",
+        "128": "/Icons/Logo-128.png"
     }
 }
